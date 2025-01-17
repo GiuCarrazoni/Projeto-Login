@@ -16,29 +16,29 @@ Siga os passos abaixo para rodar o projeto em qualquer computador.
 1. **Clonar o Repositório**
    - Abra o terminal (ou prompt de comando) e execute o seguinte comando para clonar o repositório:
      ```bash
-     git clone <URL-do-repositório>
+     git clone <(https://github.com/GiuCarrazoni/Projeto-Login.git)>
      ```
-     Substitua `<URL-do-repositório>` pelo link do repositório GitHub ou GitLab.
+     Substitua `<https://github.com/GiuCarrazoni/Projeto-Login.git>` pelo link do repositório GitHub ou GitLab.
 
 2. **Navegar até o Diretório do Projeto**
    - No terminal, navegue até o diretório do projeto clonado:
      ```bash
-     cd <nome-do-repositório>
+     cd <Projeto-Login>
      ```
 
 3. **Abrir o Arquivo HTML**
-   - Encontre o arquivo `index.html` no diretório do projeto.
+   - Encontre o arquivo `loginPage.html` no diretório do projeto.
    - Abra o arquivo no navegador:
-     - Clique duas vezes no arquivo `index.html` para abri-lo diretamente no navegador.
+     - Clique duas vezes no arquivo `loginPage.html` para abri-lo diretamente no navegador.
      - Ou, no terminal, use o comando:
        ```bash
-       open index.html
+       open loginPage.html
        ```
-       (No Windows, use `start index.html`.)
+       
 
 ### Estrutura do Projeto
 
-- **index.html**: Estrutura da página de login.
+- **loginPage.html**: Estrutura da página de login.
 - **styles.css**: Estilização da página.
 - **script.js**: Lógica de validação e interação.
 
@@ -52,5 +52,5 @@ Siga os passos abaixo para rodar o projeto em qualquer computador.
 
 Para mais informações:
 
-- E-mail: [seu-email@example.com](mailto:seu-email@example.com)
-- GitHub: [SeuPerfilGitHub](https://github.com/SeuPerfilGitHub)
+- E-mail: willjps2018@gmail.com
+- GitHub: GiuCarrazoni
